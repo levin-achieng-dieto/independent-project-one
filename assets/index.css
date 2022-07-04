@@ -272,8 +272,12 @@ h3{
     padding: 20px;
 
 }
-.more{
+#more{
     display: flex;
+    justify-content: space-evenly
+    margin-left: 100px;
+    margin-top: 200px;
+    background-color: #2549D3;
 }
 
 /*.prod{
@@ -307,4 +311,10 @@ width: 20vw;
 }
 .customers.image5 p{
     text-align: center;
+}
+
+.customers button{
+    float: right;
+    margin-bottom: 200px;
+    margin-right: 100px;
 }
