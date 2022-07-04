@@ -249,10 +249,15 @@ h3{
 }
 
 .mage p{
-    text-align: center;
     padding: 20px;
-    font-size: 30px;
+    font-size: 15px;
 }
+
+.mage h3{
+    font-size: 20px;
+}
+
+
 .image5{
     display: flex;
 }
