@@ -221,7 +221,7 @@ h3{
 
 .image img{
     margin-left: 50px;
-    width: 30vw;
+    width: 40vw;
 
 }
 
@@ -248,13 +248,15 @@ h3{
     font-size: 30px;
 }
 
-.mage p{
+/*.mage p{
     padding: 20px;
     font-size: 15px;
-}
+}*/
 
 .mage h3{
-    font-size: 20px;
+    font-size: 15px;
+    text-align: left;
+
 }
 
 
@@ -274,4 +276,5 @@ h3{
 .mage img
 {
 box-shadow: 3px 2px 2px rgba(0, 0, 0, 0.185);
+width: 20vw;
 }
