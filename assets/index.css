@@ -324,3 +324,7 @@ width: 20vw;
     margin-bottom: 200px;
     margin-right: 100px;
 }
+
+#more ul{
+    list-style: none;
+}
