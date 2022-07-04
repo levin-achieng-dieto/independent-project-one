@@ -6,12 +6,12 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Space Grotesk', sans-serif;
-    background-color: #fafafa;
+    
     /* font-family: 'Oleo Script Swash Caps', cursive; */
     /* width: 100%; */
 }
 body{
-
+    background-color: #fafafa;
 }
 
 #nav{
@@ -270,14 +270,20 @@ h3{
     justify-content: space-between;
     margin: 75px;
     padding: 20px;
+    
 
 }
+footer{
+    height: 200px;
+    background-color: #2548d3;
+}
 #more{
+    background-color: inherit;
     display: flex;
-    justify-content: space-evenly
+    justify-content: space-evenly;
     margin-left: 100px;
     margin-top: 200px;
-    background-color: #2549D3;
+   
 }
 
 /*.prod{
