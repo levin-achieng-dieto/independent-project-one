@@ -12,6 +12,7 @@
 }
 body{
     background-color: #fafafa;
+    
 }
 
 #nav{
@@ -333,3 +334,12 @@ width: 20vw;
     padding: 30px;
 }
 
+.foot{
+    margin: 30px;
+}
+
+.foot h4{
+    font-size: 30px;
+    font-weight: bolder;
+    margin: 20px;
+}
